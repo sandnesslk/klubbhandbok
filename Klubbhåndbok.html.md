@@ -384,9 +384,9 @@ Gi alle i Sandnes en mulighet til å lære livsviktig kunnskap ved å bli svømm
 
 Hovedmålet til Sandnes Svømme og Livredningsklubb:
 
-· Være best på svømmeopplæring i Sandnes
+* Være best på svømmeopplæring i Sandnes
 
-· Være en av Norges ledende klubber innenfor konkurranse svømming
+* Være en av Norges ledende klubber innenfor konkurranse svømming
 
   
 
@@ -422,35 +422,35 @@ Styret er klubbens høyeste myndighet mellom årsmøtene. Noen saker kan ikke st
 
 Lovpålagte oppgaver for styret:
 
-· Sette i verk årsmøtets og overordnede organisasjonsledds regelverk og vedtak
+* Sette i verk årsmøtets og overordnede organisasjonsledds regelverk og vedtak
 
-· Påse at idrettslagets midler brukes og forvaltes på en forsvarlig måte, i samsvar med de vedtakene som er fattet på årsmøtet eller i et overordnet organisasjonsledd, og sørge for at idrettslaget har en tilfredsstillende organisering av regnskaps- og budsjettfunksjonen og en forsvarlig økonomistyring
+* Påse at idrettslagets midler brukes og forvaltes på en forsvarlig måte, i samsvar med de vedtakene som er fattet på årsmøtet eller i et overordnet organisasjonsledd, og sørge for at idrettslaget har en tilfredsstillende organisering av regnskaps- og budsjettfunksjonen og en forsvarlig økonomistyring
 
-· Etter behov oppnevne komiteer, utvalg eller personer for spesielle oppgaver og utarbeide mandat/instruks for deres funksjon
+* Etter behov oppnevne komiteer, utvalg eller personer for spesielle oppgaver og utarbeide mandat/instruks for deres funksjon
 
-· Representere idrettslaget utad
+* Representere idrettslaget utad
 
-· Oppnevne en som er ansvarlig for politiattester
+* Oppnevne en som er ansvarlig for politiattester
 
 Andre viktige oppgaver:
 
-· Planlegge og ivareta lagets totale drift, herunder mål- og strategiarbeid, budsjett og regnskap
+* Planlegge og ivareta lagets totale drift, herunder mål- og strategiarbeid, budsjett og regnskap
 
-· Påse at idrettens retningslinjer for aktiviteten i idrettslaget blir fulgt
+* Påse at idrettens retningslinjer for aktiviteten i idrettslaget blir fulgt
 
-· Stå for idrettslagets daglige ledelse
+* Stå for idrettslagets daglige ledelse
 
-· Arbeidsgiveransvar for eventuelle ansatte
+* Arbeidsgiveransvar for eventuelle ansatte
 
-· Legge frem innstilling til årsmøtet på kandidater til valgkomité
+* Legge frem innstilling til årsmøtet på kandidater til valgkomité
 
-· Oppnevne to personer som i fellesskap skal disponere idrettslagets konti, og sørge for at de er dekket av underslagsforsikring
+* Oppnevne to personer som i fellesskap skal disponere idrettslagets konti, og sørge for at de er dekket av underslagsforsikring
 
-· Oppnevne eller engasjere regnskapsfører
+* Oppnevne eller engasjere regnskapsfører
 
-· Lage årsberetning fra styret til årsmøtet
+* Lage årsberetning fra styret til årsmøtet
 
-· Oppdatering av klubbhåndboka
+* Oppdatering av klubbhåndboka
 
 Styremedlemmene kan velges til spesifikke oppgaver som kasserer eller sekretær på årsmøtet, eller styret kan selv fordele oppgavene.
 
@@ -696,17 +696,17 @@ Mandat og oppgaver for utvalg/komiteer som er lovpålagte, går frem av klubbens
 
 Aktuelle styreoppnevnte funksjoner/utvalg:
 
-· Sportslig utvalg
+* Sportslig utvalg
 
-· Sponsor gruppe
+* Sponsor gruppe
 
-· Idrettslinje
+* Idrettslinje
 
-· Foreldre lag
+* Foreldre lag
 
-· Anlegg
+* Anlegg
 
-· IT gruppe
+* IT gruppe
 
   
 
@@ -842,43 +842,43 @@ Ansvaret for svømmeskoleansvarlig innebærer;
 
 Reiseansvarlig i styret har ansvar for alt det utenomsportslige ved reisestevner. Dette er praktiske gjøremål som bestilling av overnatting, organisering av transport, økonomi og diverse innkjøp. Det er naturlig å trekke inn foreldre til hjelp med denne oppgaven.
 
-· I god tid før stevnet bør foreldre kontaktes med informasjon om at de trengs som sjåfører og reiseledere. Dette bør gå på rundgang og reiseansvarlig fører lister over hvilke foreldre som er med på hvilke turer.
+* I god tid før stevnet bør foreldre kontaktes med informasjon om at de trengs som sjåfører og reiseledere. Dette bør gå på rundgang og reiseansvarlig fører lister over hvilke foreldre som er med på hvilke turer.
 
-· Avholde infomøte ca to uker før turen, hvor alle de foreldrene som skal være med får informasjon om turen og hva deres rolle på turen er. En person får oppgaven som reiseleder. Dette må være på plass til møtet: Avreisetidspunkt og retur, samt navneliste over de som skal være med
+* Avholde infomøte ca to uker før turen, hvor alle de foreldrene som skal være med får informasjon om turen og hva deres rolle på turen er. En person får oppgaven som reiseleder. Dette må være på plass til møtet: Avreisetidspunkt og retur, samt navneliste over de som skal være med
 
-· Lage et infoskriv om hva som må kjøpes inn på slike turer. Det gjør alt enklere for dem som er ansvarlig for innkjøp av mat.
+* Lage et infoskriv om hva som må kjøpes inn på slike turer. Det gjør alt enklere for dem som er ansvarlig for innkjøp av mat.
 
-· En får ansvar for en aktivitet om kvelden, for eksempel ta med seg projektor til å vise film på, quiz osv.
+* En får ansvar for en aktivitet om kvelden, for eksempel ta med seg projektor til å vise film på, quiz osv.
 
-· Sende ut informasjon om stevnet og oppholdet til hele foreldregruppen en uke før, med klar beskjed hvilke foreldre som er ansvarlig på turen
+* Sende ut informasjon om stevnet og oppholdet til hele foreldregruppen en uke før, med klar beskjed hvilke foreldre som er ansvarlig på turen
 
 ## Ansvar ved treningsleir
 
 Reiseansvarlig i styret har ansvar for alt det utenomsportslige ved treningsleirer. Dette er praktiske gjøremål som bestilling av overnatting, organisering av transport, mat, og treningsfasiliteter. Det er vanlig å bruke et reiseselskap til organiseringen av en oppstarttreningsleir.
 
-· Etter endt treningsleir, vil styret på høsten ta en evaluering og bestemme neste oppstartleir
+* Etter endt treningsleir, vil styret på høsten ta en evaluering og bestemme neste oppstartleir
 
-· Reserver plass allerede på høsten. Estimert antall: 45 stk for begge gruppene
+* Reserver plass allerede på høsten. Estimert antall: 45 stk for begge gruppene
 
-· På begynnelsen av året har en fått bekreftelse, pris, signert kontrakt fra reiseselskapet og betalt depositum
+* På begynnelsen av året har en fått bekreftelse, pris, signert kontrakt fra reiseselskapet og betalt depositum
 
-· Reiseansvarlig sjekker pris på evt. transport utenom pakketuren
+* Reiseansvarlig sjekker pris på evt. transport utenom pakketuren
 
-· Egenandel må utarbeides på grunnlag av: Stk pris på leiren, evt. mat som kommer i tillegg (ferje o.l.), evt. transport utenom, samt beregning av reiseledere. 70 % av totalbeløpet blir årets egenandel (egenandelprosenten bestemmes av årsmøtet)
+* Egenandel må utarbeides på grunnlag av: Stk pris på leiren, evt. mat som kommer i tillegg (ferje o.l.), evt. transport utenom, samt beregning av reiseledere. 70 % av totalbeløpet blir årets egenandel (egenandelprosenten bestemmes av årsmøtet)
 
-· Informasjon og påmelding blir sendt ut i februar/mars. Informasjonsskriv sendes via mail og påmelding m/betaling blir sendt via tryggivann. Det er bindende påmelding
+* Informasjon og påmelding blir sendt ut i februar/mars. Informasjonsskriv sendes via mail og påmelding m/betaling blir sendt via tryggivann. Det er bindende påmelding
 
-· Ansvarlig for medlemsregisteret vil følge opp betalingene. Rapport vil sendes til reiseansvarlig som har oversikten over deltagerne
+* Ansvarlig for medlemsregisteret vil følge opp betalingene. Rapport vil sendes til reiseansvarlig som har oversikten over deltagerne
 
-· Send ut en påmeldingsoversikt til alle foreldrene i gruppen for å kvalitetssikre at alle som ønsker plass, har meldt seg på.
+* Send ut en påmeldingsoversikt til alle foreldrene i gruppen for å kvalitetssikre at alle som ønsker plass, har meldt seg på.
 
-· Lag lugar-/romfordeling sammen med trener.
+* Lag lugar-/romfordeling sammen med trener.
 
-· Deltagerlisten fylles ut med navn/fødselsår/lugarfordeling og sendes reiseselskapet i begynnelsen av juni.
+* Deltagerlisten fylles ut med navn/fødselsår/lugarfordeling og sendes reiseselskapet i begynnelsen av juni.
 
-· Reiseansvarlig sender ut detaljert informasjonsskriv til deltagerne og trenere/reiseledere
+* Reiseansvarlig sender ut detaljert informasjonsskriv til deltagerne og trenere/reiseledere
 
-· Mappen til ansvarlig reiseleder (for hver gruppe) fylles opp med båtbilletter og evt. matkuponger, bussbekreftelser T/R, timeplan trening/mat, romfordeling og adresseliste til alle deltagerne.
+* Mappen til ansvarlig reiseleder (for hver gruppe) fylles opp med båtbilletter og evt. matkuponger, bussbekreftelser T/R, timeplan trening/mat, romfordeling og adresseliste til alle deltagerne.
 
   
 
@@ -952,11 +952,11 @@ Instruktørens/trenerens rett til å si opp avtalen med 1 måneds oppsigelse der
 
 Klubben kan avskjedige instruktøren/treneren med øyeblikkelig virkning dersom:
 
-· Instruktøren/treneren misligholder sine forpliktelser vesentlig.
+* Instruktøren/treneren misligholder sine forpliktelser vesentlig.
 
-· Instruktøren/treneren ved sin opptreden setter klubben eller idretten i miskreditt.
+* Instruktøren/treneren ved sin opptreden setter klubben eller idretten i miskreditt.
 
-· Instruktøren/treneren selv benytter og/eller ikke aktivt motarbeider svømmers bruk av dopingmidler og/eller narkotiske stoffer.
+* Instruktøren/treneren selv benytter og/eller ikke aktivt motarbeider svømmers bruk av dopingmidler og/eller narkotiske stoffer.
 
   
 
@@ -982,31 +982,31 @@ Disse retningslinjene er felles forventninger til alle utøvere i klubben. Retni
 
 Utøvere i klubben skal:
 
-· Vise gode holdninger
+* Vise gode holdninger
 
-· Respektere hverandre
+* Respektere hverandre
 
-· Vise lojalitet mot klubb og trenere
+* Vise lojalitet mot klubb og trenere
 
-· Hjelpe hverandre og stille opp for hverandre
+* Hjelpe hverandre og stille opp for hverandre
 
-· Følge klubbens regler
+* Følge klubbens regler
 
-· Være ærlig overfor trener og andre utøvere
+* Være ærlig overfor trener og andre utøvere
 
-· Ta ansvar for godt samhold
+* Ta ansvar for godt samhold
 
-· Stille på treninger og stevner en har forpliktet seg til
+* Stille på treninger og stevner en har forpliktet seg til
 
-· Vise engasjement
+* Vise engasjement
 
-· Være stolt av sin egen innsats
+* Være stolt av sin egen innsats
 
-· Anerkjenne andre sin innsats
+* Anerkjenne andre sin innsats
 
-· Ta ansvar for miljø og trivsel
+* Ta ansvar for miljø og trivsel
 
-· Reagere på mobbing eller annen adferd som ikke er i tråd med klubbens verdier
+* Reagere på mobbing eller annen adferd som ikke er i tråd med klubbens verdier
 
   
 
@@ -1018,23 +1018,23 @@ _Vedtatt av styret i Sandnes Svømme og Livredningsklubb dato 29. april 2016_
 
 Til deg som er foreldre i klubben:
 
-· Respekter idrettslagets arbeid. Det er frivillig å være medlem av idrettslaget, men er du med følger du idrettslagets regler
+* Respekter idrettslagets arbeid. Det er frivillig å være medlem av idrettslaget, men er du med følger du idrettslagets regler
 
-· Engasjer deg, men husk at det er barna som driver idrett – ikke du
+* Engasjer deg, men husk at det er barna som driver idrett – ikke du
 
-· Respekter treneren, hans/hennes arbeid og anerkjenn ham/henne overfor barna dine
+* Respekter treneren, hans/hennes arbeid og anerkjenn ham/henne overfor barna dine
 
-· Lær barna folkeskikk. Gå foran som et godt eksempel
+* Lær barna folkeskikk. Gå foran som et godt eksempel
 
-· Lær barna å tåle både medgang og motgang
+* Lær barna å tåle både medgang og motgang
 
-· Motiver barna til å være positive på trening
+* Motiver barna til å være positive på trening
 
-· Vis god sportsånd og respekt for andre
+* Vis god sportsånd og respekt for andre
 
-· Ved uenighet snakker du med den det gjelder – ikke om
+* Ved uenighet snakker du med den det gjelder – ikke om
 
-· Husk at det viktigste av alt er at barna trives og har det gøy!
+* Husk at det viktigste av alt er at barna trives og har det gøy!
 
 Klubbens retningslinjer er i tråd med Olympiatoppens anbefalinger om hvordan være en god idrettsforelder.
 
@@ -1087,49 +1087,49 @@ Disse retningslinjene er felles forventninger til alle trenere i klubben. Retnin
 
 Som trener i idrettslaget skal du bidra til:
 
-· Mestring, selvstendighet og tilhørighet for utøveren
+* Mestring, selvstendighet og tilhørighet for utøveren
 
-· Positive erfaringer med trening og konkurranse
+* Positive erfaringer med trening og konkurranse
 
-· Å fremme et godt sosialt miljø, lagånd og vennskap
+* Å fremme et godt sosialt miljø, lagånd og vennskap
 
-· Samarbeid og god kommunikasjon med andre trenere, ledere og foreldre
+* Samarbeid og god kommunikasjon med andre trenere, ledere og foreldre
 
-· Vær et godt forbilde
+* Vær et godt forbilde
 
-· Møt presis og godt forberedt til hver trening
+* Møt presis og godt forberedt til hver trening
 
-· Som trener er du veileder, inspirator og motivator
+* Som trener er du veileder, inspirator og motivator
 
-· Bry deg litt ekstra og involver deg i utøverne dine
+* Bry deg litt ekstra og involver deg i utøverne dine
 
-· Bli kjent med utøvernes individuelle mål og opplevelse av treningen
+* Bli kjent med utøvernes individuelle mål og opplevelse av treningen
 
-· Søk å utvikle selvstendig vurderingsevne hos utøveren
+* Søk å utvikle selvstendig vurderingsevne hos utøveren
 
-· Vis god sportsånd og respekt for andre
+* Vis god sportsånd og respekt for andre
 
-· Vær bevisst på at du gir alle utøverne oppmerksomhet
+* Vær bevisst på at du gir alle utøverne oppmerksomhet
 
-· Enhver utøver eller gruppe skal utfordres til å utvikle sine ferdigheter
+* Enhver utøver eller gruppe skal utfordres til å utvikle sine ferdigheter
 
 Innholdet i treningen skal være preget av:
 
-· En målrettet plan
+* En målrettet plan
 
-· Progresjon i opplevelse og ferdigheter
+* Progresjon i opplevelse og ferdigheter
 
-· Stadig nye utfordringer slik at utøveren flytter grenser
+* Stadig nye utfordringer slik at utøveren flytter grenser
 
-· Effektiv organisering
+* Effektiv organisering
 
-· Saklig og presis informasjon
+* Saklig og presis informasjon
 
-· Kreative løsninger
+* Kreative løsninger
 
-· Fleksibilitet ved problemløsning
+* Fleksibilitet ved problemløsning
 
-· Som trener er du ansvarlig for god kommunikasjon
+* Som trener er du ansvarlig for god kommunikasjon
 
   
 
@@ -1139,13 +1139,13 @@ _Vedtatt av styret i Sandnes Svømme og Livredningsklubb dato 25. april 2016_
 
 Alle ansatte, tillitsvalgte, medlemmer og representanter for klubben skal følge klubbens retningslinjer for alkohol.
 
-· Ingen ansatt, tillitsvalgt, nettverk, representant eller engasjert leder eller trener skal komme påvirket til trening, konkurranse, seminar.
+* Ingen ansatt, tillitsvalgt, nettverk, representant eller engasjert leder eller trener skal komme påvirket til trening, konkurranse, seminar.
 
-· Ansvarlige for reise i regi klubben skal alltid være edru.
+* Ansvarlige for reise i regi klubben skal alltid være edru.
 
-· Trenere, ledere og utøvere skal fremstå som gode forbilder og skal ikke drikke alkohol i samvær med barn og unge.
+* Trenere, ledere og utøvere skal fremstå som gode forbilder og skal ikke drikke alkohol i samvær med barn og unge.
 
-· Tribunekulturen skal være trygg, familievennlig og alkoholfri. På tribunene skal det derfor ikke nytes alkohol i tilknytning til konkurranseaktiviteter.
+* Tribunekulturen skal være trygg, familievennlig og alkoholfri. På tribunene skal det derfor ikke nytes alkohol i tilknytning til konkurranseaktiviteter.
 
 Klubben og medlemmene i klubben skal ha tydelige holdninger til alkohol. Klubben er klare på at barn og unge under 18 år som deltar i organisert aktivitet i regi klubben skal møte et trygt idrettsmiljø der det ikke skjer misbruk av alkohol.
 
@@ -1308,31 +1308,31 @@ _Start med arbeidet i god tid_ – min. 6 måneder før årsmøte
 
 Vær orientert og oppdatert
 
-· Sørg for å ha kunnskap om klubbens verdier, visjon og mål
+* Sørg for å ha kunnskap om klubbens verdier, visjon og mål
 
-· Sørg for å bli holdt orientert gjennom året. Be om å få tilsendt referater, nyhetsbrev og/ eller annen aktuell informasjon
+* Sørg for å bli holdt orientert gjennom året. Be om å få tilsendt referater, nyhetsbrev og/ eller annen aktuell informasjon
 
-· Ha dialog med klubben/styret for å finne ut hvordan styret har fungert i perioden
+* Ha dialog med klubben/styret for å finne ut hvordan styret har fungert i perioden
 
 Lag en fremdriftsplan
 
-· Lag en tidsplan med oppstart av arbeidet min.3-6 måneder før årsmøte
+* Lag en tidsplan med oppstart av arbeidet min.3-6 måneder før årsmøte
 
-· Hva og hvordan skal arbeidet utføres.  Lag en oversikt over hvilke funksjoner som skal velges på årsmøte. Dette finnes det en oversikt over i klubbens lover. Finn ut hvem som er på valg av disse
+* Hva og hvordan skal arbeidet utføres.  Lag en oversikt over hvilke funksjoner som skal velges på årsmøte. Dette finnes det en oversikt over i klubbens lover. Finn ut hvem som er på valg av disse
 
-· Deleger oppgaver til alle i komiteen.
+* Deleger oppgaver til alle i komiteen.
 
 **Kartlegging:**
 
-· Ta kontakt med alle som er på valg
+* Ta kontakt med alle som er på valg
 
-· Lag et spørreskjema med spørsmål om personen ønsker gjenvalg eller ikke. Se forslag
+* Lag et spørreskjema med spørsmål om personen ønsker gjenvalg eller ikke. Se forslag
 
-· Send ut et spørreskjema til de som er på valg
+* Send ut et spørreskjema til de som er på valg
 
-· Dersom en velger å ikke sende ut skjema bør spørsmålene stilles i en samtale med personen. Men for best mulig kontinuitet anbefales det å få skriftlig svar slik at neste valgkomite har med seg historikken
+* Dersom en velger å ikke sende ut skjema bør spørsmålene stilles i en samtale med personen. Men for best mulig kontinuitet anbefales det å få skriftlig svar slik at neste valgkomite har med seg historikken
 
-· Forsøk å danne et bilde av hvilken kompetanse klubben har behov for i sitt arbeid.
+* Forsøk å danne et bilde av hvilken kompetanse klubben har behov for i sitt arbeid.
 
 **Rekruttering:**
 
@@ -1350,21 +1350,21 @@ Lag en fremdriftsplan
 
 **Presentasjon på årsmøte:**
 
-· Innstillingen skal vise en totaloversikt over styret, komiteer og utvalg; både de som skal velges på årsmøte (regulert i klubbens lover), og de som skal fortsette. Se forslag
+* Innstillingen skal vise en totaloversikt over styret, komiteer og utvalg; både de som skal velges på årsmøte (regulert i klubbens lover), og de som skal fortsette. Se forslag
 
-· Presenter hvem som har sittet i valgkomiteen og hvordan arbeidet har foregått.
+* Presenter hvem som har sittet i valgkomiteen og hvordan arbeidet har foregått.
 
-· Valgkomiteen legger frem sin innstilling på klubbens årsmøte med begrunnelse for hvorfor disse kandidatene blir foreslått.
+* Valgkomiteen legger frem sin innstilling på klubbens årsmøte med begrunnelse for hvorfor disse kandidatene blir foreslått.
 
-· Valg skjer etter retningslinjer gitt i loven.
+* Valg skjer etter retningslinjer gitt i loven.
 
-· Ved benkeforslag må valgkomiteen være forberedt på å fortelle om de foreslåtte kandidatene
+* Ved benkeforslag må valgkomiteen være forberedt på å fortelle om de foreslåtte kandidatene
 
 **Ny valgkomite:**
 
-· Ny valgkomite skal foreslås av styret (ikke valgkomiteen selv)
+* Ny valgkomite skal foreslås av styret (ikke valgkomiteen selv)
 
-· Finn alltid motiverte personer. Dersom personer som går ut av styret er lei og lite positive er ikke klubben tjent med at disse går inn i valgkomiteen.
+* Finn alltid motiverte personer. Dersom personer som går ut av styret er lei og lite positive er ikke klubben tjent med at disse går inn i valgkomiteen.
 
   
 
@@ -1771,13 +1771,13 @@ Internasjonal
 
 ### Aktiviteter
 
-· Konkurransesvømming
+* Konkurransesvømming
 
-· 3 reiseleirer i året. Leirer hjemme.
+* 3 reiseleirer i året. Leirer hjemme.
 
-· Breddeaktiviteter (treningsgrupper, Masters)
+* Breddeaktiviteter (treningsgrupper, Masters)
 
-· Fra 1-14 treninger i uken
+* Fra 1-14 treninger i uken
 
 ## Trenere
 
@@ -1908,13 +1908,13 @@ De skal opptre overfor elever, foresatte, med instruktører, svømmehallens ansa
 
 • Øke andelen instruktører, spesielt «voksne» instruktører for å legge til rette for:
 
-· At kursdeltagere/utøvere står i sentrum
+* At kursdeltagere/utøvere står i sentrum
 
-· Deltagelse på kanten kan prioriteres av alle i svømmeskolen
+* Deltagelse på kanten kan prioriteres av alle i svømmeskolen
 
-· Å være en pålitelig kurs arrangør, som har høy kvalitet og regularitet på kurs som avholdes
+* Å være en pålitelig kurs arrangør, som har høy kvalitet og regularitet på kurs som avholdes
 
-· Å kunne utnytte all tilgjengelig hall kapasitet
+* Å kunne utnytte all tilgjengelig hall kapasitet
 
 • Forenkle administrative rutiner
 
@@ -1972,25 +1972,25 @@ Masters er ment å være et tilbud til tidligere konkurranse (og bredde svømmer
 
 ### Kortsiktige mål (2015)
 
-· Øke andelen instruktører, spesielt «voksne» instruktører for å legge til rette for:
+* Øke andelen instruktører, spesielt «voksne» instruktører for å legge til rette for:
 
-· At kursdeltagere/utøvere står i sentrum
+* At kursdeltagere/utøvere står i sentrum
 
-· Å være en pålitelig kurs arrangør, som har høy kvalitet og regularitet på kurs som avholdes
+* Å være en pålitelig kurs arrangør, som har høy kvalitet og regularitet på kurs som avholdes
 
-· Å utnytte all tilgjengelig hall kapasitet
+* Å utnytte all tilgjengelig hall kapasitet
 
-· Forenkle administrative rutiner
+* Forenkle administrative rutiner
 
-· Øke tilbudet med aktiviteter utover svømming
+* Øke tilbudet med aktiviteter utover svømming
 
 ### Mellomlangsiktige mål (2016/2017)
 
-· Forberedelse ny hall
+* Forberedelse ny hall
 
 ### Langsiktige mål (2017->)
 
-· Fjerne venteliste
+* Fjerne venteliste
 
   
 
@@ -2456,7 +2456,7 @@ Følgende aktiviteter/treninger inngår ved beregning av oppmøte for utøverne 
   
 ![](Klubbhåndbok.fld/image009.png)
 
-· Følgende  morgentreninger inngår:
+* Følgende  morgentreninger inngår:
 
 o 2 morgentreninger for Elitegruppe A.
 
@@ -2696,15 +2696,15 @@ Dette er i tråd med nifs retningslinjer for alkohol.
 
 ## Retningslinjer
 
-· Ansatt, tillitsvalgt, utøvere, representant, engasjert leder eller trener skal komme opplagte og edru til trening, konkurranse, o.l.
+* Ansatt, tillitsvalgt, utøvere, representant, engasjert leder eller trener skal komme opplagte og edru til trening, konkurranse, o.l.
 
-· Ingen ansatt, tillitsvalg, utøvere, representant, engasjert leder, foreldre eller trener skal omgås utøvere under 18 år i påvirket tilstand.
+* Ingen ansatt, tillitsvalg, utøvere, representant, engasjert leder, foreldre eller trener skal omgås utøvere under 18 år i påvirket tilstand.
 
-· Det er alltid ansvarlige edru voksne på reiser i regi av klubben
+* Det er alltid ansvarlige edru voksne på reiser i regi av klubben
 
-· Trenere, ledere, foreldre og utøvere skal fremstå som gode forbilder og skal ikke drikke alkohol, eller omtale hendelser/fester hvor alkohol står sentralt, i samvær med utøvere eller barn og unge under 18 år.
+* Trenere, ledere, foreldre og utøvere skal fremstå som gode forbilder og skal ikke drikke alkohol, eller omtale hendelser/fester hvor alkohol står sentralt, i samvær med utøvere eller barn og unge under 18 år.
 
-· Tribunekulturen skal være trygg, familievennlig og alkoholfri. På tribunene skal det derfor ikke nytes alkohol i tilknytning til konkurranseaktiviteter.
+* Tribunekulturen skal være trygg, familievennlig og alkoholfri. På tribunene skal det derfor ikke nytes alkohol i tilknytning til konkurranseaktiviteter.
 
 ## Sanksjoner
 
