@@ -2788,5 +2788,5 @@ Utøvere som er kvalifisert får
 
 Disse retningslinjene er normgivende og støtte må besluttes av styret forut for mesterskap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Nzg5NTM5Nl19
+eyJoaXN0b3J5IjpbLTEzNDM1NzA0NjgsLTk2Nzg5NTM5Nl19
 -->
