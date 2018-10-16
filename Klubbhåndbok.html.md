@@ -400,13 +400,12 @@ Organisering, roller og ansvar
 
 ![](Klubbhåndbok.fld/image003.png)
 
-  
-
-  ```mermaid
+```mermaid
 graph TD
 
     Start --> Stop
 ```
+
 ## Roller og ansvar
 
 ### Årsmøtet
