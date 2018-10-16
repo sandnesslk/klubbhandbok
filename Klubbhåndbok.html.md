@@ -406,7 +406,7 @@ Organisering, roller og ansvar
 graph TD
 
     Start --> Stop
-
+```
 ## Roller og ansvar
 
 ### Årsmøtet
