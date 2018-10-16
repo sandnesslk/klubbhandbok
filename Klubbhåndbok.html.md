@@ -402,7 +402,10 @@ Organisering, roller og ansvar
 
   
 
-  
+  ```mermaid
+graph TD
+
+    Start --> Stop
 
 ## Roller og ansvar
 
